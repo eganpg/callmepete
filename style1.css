@@ -14,7 +14,7 @@
 ::-webkit-selection { background: rgba(0,0,0,.1); }
 
 body {
-    font: 300 24px/29px "Helvetica Neue", sans-serif;
+    font: 300 20px/29px "Helvetica Neue", sans-serif;
 
     background: #4a59a1;
     color: #fff;
@@ -29,7 +29,7 @@ body {
 }
 
 h1, h2 {
-    font-size: 150%;
+    font-size: 200%;
     line-height: 125%;
     font-weight: 300;
 }
@@ -52,7 +52,7 @@ h1, h2 {
         padding-right: 30px;
         padding-bottom: 15px;
 
-        opacity: .5;
+        opacity: .7;
 
         -webkit-transition: opacity .5s;
         -moz-transition: opacity .5s;
@@ -70,7 +70,7 @@ body.tumblr { background: #6985bc; }
 body.forrst { background: #2f9028; }
 body.dribbble { background: #d5335d; }
 body.github { background: #4a535b; }
-body.email { background: #89aec6; }
+body.email { background: #e2a522; }
 body.aim { background: #e2a522; }
 body.msn { background: #2bb538; }
 body.skype { background: #ce2020; }
